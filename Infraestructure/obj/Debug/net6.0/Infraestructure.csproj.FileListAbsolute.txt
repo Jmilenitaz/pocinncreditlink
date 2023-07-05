@@ -1,0 +1,17 @@
+D:\jzuluaga\innovacion\pocinncreditlink\Infraestructure\bin\Debug\net6.0\Infraestructure.deps.json
+D:\jzuluaga\innovacion\pocinncreditlink\Infraestructure\bin\Debug\net6.0\Infraestructure.runtimeconfig.json
+D:\jzuluaga\innovacion\pocinncreditlink\Infraestructure\bin\Debug\net6.0\Infraestructure.dll
+D:\jzuluaga\innovacion\pocinncreditlink\Infraestructure\bin\Debug\net6.0\ref\Infraestructure.dll
+D:\jzuluaga\innovacion\pocinncreditlink\Infraestructure\bin\Debug\net6.0\Infraestructure.pdb
+D:\jzuluaga\innovacion\pocinncreditlink\Infraestructure\bin\Debug\net6.0\Domain.dll
+D:\jzuluaga\innovacion\pocinncreditlink\Infraestructure\bin\Debug\net6.0\Domain.pdb
+D:\jzuluaga\innovacion\pocinncreditlink\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.AssemblyReference.cache
+D:\jzuluaga\innovacion\pocinncreditlink\Infraestructure\obj\Debug\net6.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\jzuluaga\innovacion\pocinncreditlink\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfoInputs.cache
+D:\jzuluaga\innovacion\pocinncreditlink\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfo.cs
+D:\jzuluaga\innovacion\pocinncreditlink\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.CoreCompileInputs.cache
+D:\jzuluaga\innovacion\pocinncreditlink\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.CopyComplete
+D:\jzuluaga\innovacion\pocinncreditlink\Infraestructure\obj\Debug\net6.0\Infraestructure.dll
+D:\jzuluaga\innovacion\pocinncreditlink\Infraestructure\obj\Debug\net6.0\ref\Infraestructure.dll
+D:\jzuluaga\innovacion\pocinncreditlink\Infraestructure\obj\Debug\net6.0\Infraestructure.pdb
+D:\jzuluaga\innovacion\pocinncreditlink\Infraestructure\obj\Debug\net6.0\Infraestructure.genruntimeconfig.cache
